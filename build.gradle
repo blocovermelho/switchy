@@ -22,10 +22,10 @@ dependencies {
 	implementation libs.kaleidoConfig
 	include libs.kaleidoConfig
 
-	compileOnly "eu.pb4:placeholder-api:3.1.0-beta.1+26.2"
+	compileOnly "eu.pb4:placeholder-api:3.2.0+26.3"
 	compileOnly "eu.pb4:player-data-api:0.11.0+26.2"
-	compileOnly "maven.modrinth:styled-chat:A7ihc7ss"
-	compileOnly "maven.modrinth:styled-nicknames:ET58KKxg"
+	compileOnly "maven.modrinth:styled-chat:HQ91YnMY"
+	compileOnly "maven.modrinth:styled-nicknames:fVUQu97Q"
 
 	implementation libs.fl
 	implementation libs.fapi
